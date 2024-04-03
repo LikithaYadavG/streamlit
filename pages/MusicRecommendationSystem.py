@@ -13,7 +13,6 @@ import streamlit as st
 import seaborn as sns
 import plotly.express as px
 from PIL import Image
-import cssutils
 
 
 df = pd.read_csv("data.csv")
